@@ -24,7 +24,7 @@ export default function Home() {
   
    <div className="p-20 space-y-4">
      <div>Hello, {name} </div>
-     <Card text="Hi Ram..." />
+     <Card text="Hi Ram...New changes" />
      <Card text={"Its my JS Code"}/>
      <Card /> 
      <button onClick={handleClick}>{label}</button> 
